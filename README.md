@@ -52,16 +52,6 @@ This app provides a centralized, server-rendered dashboard with automatic follow
 
 ---
 
-## 📸 Screenshots
-
-> _Screenshots placeholder_
->
-> | Dashboard (SSR) | Applications Table & Filters | Add/Edit Modal |
-> | :---: | :---: | :---: |
-> | `![Dashboard Screenshot](placeholder-dashboard.png)` | `![Applications Screenshot](placeholder-applications.png)` | `![Modal Form Screenshot](placeholder-form.png)` |
-
----
-
 ## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 15 (App Router with React Server Components)
