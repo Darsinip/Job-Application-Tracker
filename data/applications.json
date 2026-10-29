@@ -1,0 +1,79 @@
+[
+  {
+    "id": "app-101",
+    "company": "Stripe",
+    "role": "Senior Frontend Engineer",
+    "dateApplied": "2026-10-18",
+    "status": "Applied",
+    "link": "https://stripe.com/jobs/senior-frontend",
+    "notes": "Applied via referral from Sarah. Focused on billing UI team.",
+    "createdAt": "2026-10-18T10:00:00.000Z",
+    "updatedAt": "2026-10-18T10:00:00.000Z"
+  },
+  {
+    "id": "app-102",
+    "company": "Vercel",
+    "role": "Full Stack Developer",
+    "dateApplied": "2026-10-22",
+    "status": "Interview",
+    "link": "https://vercel.com/careers",
+    "notes": "Passed initial recruiter screening. Technical round scheduled for next Tuesday.",
+    "createdAt": "2026-10-22T14:30:00.000Z",
+    "updatedAt": "2026-10-24T09:15:00.000Z"
+  },
+  {
+    "id": "app-103",
+    "company": "GitHub",
+    "role": "Software Engineer II",
+    "dateApplied": "2026-10-10",
+    "status": "Offer",
+    "link": "https://github.com/about/careers",
+    "notes": "Received written offer! Reviewing compensation package and equity terms.",
+    "createdAt": "2026-10-10T11:00:00.000Z",
+    "updatedAt": "2026-10-26T16:45:00.000Z"
+  },
+  {
+    "id": "app-104",
+    "company": "Linear",
+    "role": "Product Engineer",
+    "dateApplied": "2026-10-27",
+    "status": "Applied",
+    "link": "https://linear.app/careers",
+    "notes": "Submitted portfolio featuring keyboard-first web applications.",
+    "createdAt": "2026-10-27T08:20:00.000Z",
+    "updatedAt": "2026-10-27T08:20:00.000Z"
+  },
+  {
+    "id": "app-105",
+    "company": "Datadog",
+    "role": "Systems Engineer",
+    "dateApplied": "2026-10-15",
+    "status": "Rejected",
+    "link": "https://careers.datadoghq.com",
+    "notes": "Automated rejection email after resume review. Role required 8+ years Go experience.",
+    "createdAt": "2026-10-15T15:10:00.000Z",
+    "updatedAt": "2026-10-20T11:00:00.000Z"
+  },
+  {
+    "id": "app-106",
+    "company": "Figma",
+    "role": "Design Systems Engineer",
+    "dateApplied": "2026-10-12",
+    "status": "Applied",
+    "link": "https://figma.com/careers",
+    "notes": "Sent cold message to engineering manager on LinkedIn. Follow-up needed.",
+    "createdAt": "2026-10-12T13:00:00.000Z",
+    "updatedAt": "2026-10-12T13:00:00.000Z"
+  },
+  {
+    "id": "app-d7b602c2",
+    "company": "abc",
+    "role": "frontend",
+    "dateApplied": "2026-10-29",
+    "status": "Applied",
+    "link": "https://company",
+    "notes": "technical interview",
+    "createdAt": "2026-10-29T07:32:15.549Z",
+    "updatedAt": "2026-10-29T07:32:15.549Z"
+  }
+]
